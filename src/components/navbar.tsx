@@ -33,7 +33,7 @@ export default function NavBar() {
     },
     {
       name: "Contact",
-      route: "/contact",
+      route: "https://portfolio-app-3j2f.vercel.app/",
     },
   ];
 
